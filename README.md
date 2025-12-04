@@ -166,9 +166,15 @@ Internet access (first run will download the HuggingFace model)
 
 4.2 Install Dependencies
 From the project root:
+```
 pip install -r requirements.txt
+```
+
 4.3 Run the API
 Use Uvicorn to start the FastAPI app:
+```
+uvicorn main:app --reload --port 8000
+```
 The app will run at http://localhost:8000.
 
 4.4 Test the API
