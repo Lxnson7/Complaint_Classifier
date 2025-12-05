@@ -13,6 +13,9 @@ This project provides a **FastAPI-based REST API** for automatically classifying
 
 It also exposes endpoints for statistics, debugging analysis, and basic health monitoring.
 
+APP LINK : https://693255009d385d2c2d3caf72--remarkable-marzipan-b15b5d.netlify.app/
+
+
 ---
 
 ## 1. Problem Chosen
