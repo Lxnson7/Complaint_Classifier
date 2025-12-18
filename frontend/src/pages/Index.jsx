@@ -43,10 +43,7 @@ const Index = () => {
           </Link>
         </div>
 
-        <div className="text-gray-400 text-sm">
-          <p>Powered by Machine Learning (Naive Bayes, SVM, Logistic Regression)</p>
-          <p className="mt-2">Backend: FastAPI | Frontend: React + Vite</p>
-        </div>
+        
       </div>
     </div>
   );
